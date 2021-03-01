@@ -1,4 +1,4 @@
- # ansible-dev (Project Title)
+ # ansible-dev (Training)
  
 Learning how to control ansible with GIT.
  
